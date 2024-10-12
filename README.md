@@ -36,7 +36,7 @@ This is a simple terminal-based Blackjack game implemented in C++.
    cd blackjack-game-cpp
 2. Compile the programm
    ```bash
-   g++ -o Blackjack BlackJack.cpp
+   g++ -o Blackjack Blackjack.cpp
 3. Run the game
    ```bash
     ./Blackjack
