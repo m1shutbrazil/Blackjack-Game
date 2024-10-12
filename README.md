@@ -1,4 +1,4 @@
-# Blackjack-Game# Blackjack Game
+# Blackjack Game
 
 This is a simple terminal-based Blackjack game implemented in C++.
 
